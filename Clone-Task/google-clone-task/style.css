@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+}
+
+.top-container{
+    background-color: #efeff0;
+    padding-bottom: 1px;
+}
+.flex-container {
+     display: flex;
+      justify-content: center;
+}
+
+.search{
+    width: 30%;
+}
+.one {
+    background-color: #8eebc4;
+    margin: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.two {
+    background-color: #5adbb0;
+    margin: 2px;
+}
+
+.three {
+    background-color: #21b998;
+    margin: 2px;
+}
+
+.bottom-container{
+    padding: 10px;
+    
+}

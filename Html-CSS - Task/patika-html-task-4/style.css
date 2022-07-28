@@ -1,0 +1,31 @@
+/* CLASS */
+.text-red{
+    color: red;
+}
+.text-orange{
+    color: orange;
+}
+#first-article{
+    color: red;
+}
+.fs-30{
+    font-size: 30px;
+}
+
+
+/* EXTERNAL */
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+    color: red;
+}
+h2{
+    color: plum;
+}
+h3{
+    color: orange;
+}

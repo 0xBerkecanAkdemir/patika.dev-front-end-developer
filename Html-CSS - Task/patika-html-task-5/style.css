@@ -1,0 +1,64 @@
+/* class --> .text-red {} */
+/* id --> #id-bilgisi {} */
+/************ CLASS ************/
+.text-red{
+    color:red;
+}
+#first-article{
+    color:red;
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-30{
+    font-size: 30px;
+}
+/**************EXTERNAL  *************/
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* CSS SELECTORS */
+.color-blue.fw-normal{
+    color: blue;
+    font-weight: normal;
+}
+
+/* ilk satırı yeşile boya
+li:first-child{
+    color: green;
+}
+son satırı maviye boya
+li:last-child{
+    color: aqua;
+} 
+li içinde 1.sıradakini arka planını kırmızı yap
+li:nth-child(1) {
+    background: red;
+}
+li de 1-3-5-7 yi kırmızıya boya
+li:nth-child(add){
+    color:red }
+li de 2-4-6-8 i maviye boya
+li:nth-child(even){
+    color:blue
+}
+*/
+/* MARGİN - PADDİNG 
+KUTU ARASI MESAFE MARGİN
+KUTU İÇİN BOŞUK PADDİNG
+
+
+*/
